@@ -2,8 +2,8 @@ class Wwdcdl < Formula
   desc "Tool do download WWDC videos and slides"
   homepage "https://github.com/sirlantis/wwdcdl"
   url "https://github.com/sirlantis/wwdcdl/releases/download/2.0/wwdcdl-darwin.tar.gz"
-  sha256 "9798f6097c6870b96669bd88d2ae946639362bcaade172cadfeb4788dc5bfaf6"
-  version "2.0"
+  sha256 "ca6be88e09df04bd0930a0019639dadf7ccca8107482f08b61f39e8b580c2ccd"
+  version "2.1"
 
   def install
     bin.install "wwdcdl"
